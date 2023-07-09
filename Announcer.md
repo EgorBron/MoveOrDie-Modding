@@ -17,19 +17,19 @@
 
 > *Lines for specific situations. These play throughout the game when their respective actions happen.*
 
-| Phrase                                      | Filename                | Description                                                                        | Example        |
-|---------------------------------------------|-------------------------|------------------------------------------------------------------------------------|----------------|
-| **Move or Die!**                            | `menu@game_title`       | The name of the game in the main menu, this should sound epic (but not omitted to) | <audio src=""> |
-| **Select your character**                   | `menu@select_character` | When player joins the lobby and character selection begins                         | <audio src=""> |
-| **Select your favorite modes**              | `menu@vote_start`       | When game modes voting begins                                                      | <audio src=""> |
-| **Let's do this**                           | `game@vote_end`         | Plays right before the match starts                                                | <audio src=""> |
-| **Time to pick a mutator**                  | `game@mutator`          | Plays when players get to select a "mutator"                                       | <audio src=""> |
-| **5, 4, 3, 2, 1**                           | `game@countdown`        | Countdown (appears at the end of round and somewhere else in future)               | <audio src=""> |
-| **Ready? GO!**                              | `game@go`               | Plays when round starts                                                            | <audio src=""> |
-| **Draw**                                    | `game@draw`             | When players are in equal situation and nobody wins                                | <audio src=""> |
-| **Time's up**                               | `game@time_up`          | When the time runs out and nobody wins                                             | <audio src=""> |
-| **Sudden death! No more life regeneration** | `game@sudden_death`     | Plays in the pre-end of round                                                      | <audio src=""> |
-| **Nobody wins**                             | `menu@nobody_win`       | Plays at end round when nobody won in this round                                   | <audio src=""> |
-| **Blue wins**                               | `menu@blue_win`         | Announces that Blue player won in the round                                        | <audio src=""> |
-| **Yellow wins**                             | `menu@yellow_win`       | Announces that Yellow player won in the round                                      | <audio src=""> |
-| **Pink wins**                               | `menu@pink_win`         | Announces that Pink player won in the round                                        | <audio src=""> |
+| Phrase                                      | Filename                | Description                                                                        | Example                 |
+|---------------------------------------------|-------------------------|------------------------------------------------------------------------------------|-------------------------|
+| **Move or Die!**                            | `menu@game_title`       | The name of the game in the main menu, this should sound epic (but not omitted to) | <audio src="" controls> |
+| **Select your character**                   | `menu@select_character` | When player joins the lobby and character selection begins                         | <audio src="" controls> |
+| **Select your favorite modes**              | `menu@vote_start`       | When game modes voting begins                                                      | <audio src="" controls> |
+| **Let's do this**                           | `game@vote_end`         | Plays right before the match starts                                                | <audio src="" controls> |
+| **Time to pick a mutator**                  | `game@mutator`          | Plays when players get to select a "mutator"                                       | <audio src="" controls> |
+| **5, 4, 3, 2, 1**                           | `game@countdown`        | Countdown (appears at the end of round and somewhere else in future)               | <audio src="" controls> |
+| **Ready? GO!**                              | `game@go`               | Plays when round starts                                                            | <audio src="" controls> |
+| **Draw**                                    | `game@draw`             | When players are in equal situation and nobody wins                                | <audio src="" controls> |
+| **Time's up**                               | `game@time_up`          | When the time runs out and nobody wins                                             | <audio src="" controls> |
+| **Sudden death! No more life regeneration** | `game@sudden_death`     | Plays in the pre-end of round                                                      | <audio src="" controls> |
+| **Nobody wins**                             | `menu@nobody_win`       | Plays at end round when nobody won in this round                                   | <audio src="" controls> |
+| **Blue wins**                               | `menu@blue_win`         | Announces that Blue player won in the round                                        | <audio src="" controls> |
+| **Yellow wins**                             | `menu@yellow_win`       | Announces that Yellow player won in the round                                      | <audio src="" controls> |
+| **Pink wins**                               | `menu@pink_win`         | Announces that Pink player won in the round                                        | <audio src="" controls> |
