@@ -22,7 +22,7 @@
 | **Move or Die!**                            | `menu@game_title`       | The name of the game in the main menu, this should sound epic (but not omitted to) | <audio src="" controls> |
 | **Select your character**                   | `menu@select_character` | When player joins the lobby and character selection begins                         | <audio src="" controls> |
 | **Select your favorite modes**              | `menu@vote_start`       | When game modes voting begins                                                      | <audio src="" controls> |
-| **Let's do this**                           | `game@vote_end`         | Plays right before the match starts                                                | <audio src="" controls> |
+| **Let's do this**                           | `menu@vote_end`         | Plays right before the match starts                                                | <audio src="" controls> |
 | **Time to pick a mutator**                  | `game@mutator`          | Plays when players get to select a "mutator"                                       | <audio src="" controls> |
 | **5, 4, 3, 2, 1**                           | `game@countdown`        | Countdown (appears at the end of round and somewhere else in future)               | <audio src="" controls> |
 | **Ready? GO!**                              | `game@go`               | Plays when round starts                                                            | <audio src="" controls> |
