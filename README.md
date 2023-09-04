@@ -2,6 +2,10 @@
 
 Hi! Welcome to the Move or Die modding tutorial!
 
+## Important: it is still WIP!
+
+It's still being written. I try to do the manual as soon as I have free time, but it is possible that it will be like other tutorials: it will be dropped and/or I won't be able to maintain it. So, I wait for your suggestions and contributions!
+
 ## Getting Started
 
 Check out [mod structure](./ModStructure.md) before you get started. After creating an empty mod, you can go to any of the guides from the list below:
